@@ -1,3 +1,3 @@
-module retaLimiting
+module rateLimiting
 
 go 1.19
